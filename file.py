@@ -4,6 +4,7 @@ from turtle import width
 import pygame
 import math
 
+#  TODO add something
 pygame.init()
 
 WIDTH, HEIGHT = 800, 800

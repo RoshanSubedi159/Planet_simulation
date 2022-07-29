@@ -12,7 +12,7 @@ jobs:
       - uses: twilio-labs/actions-sms@v1
         with:
           fromPhoneNumber: "+12055830423"
-          toPhoneNumber: "+9779845977786"
+          toPhoneNumber: "+9779807136789"
           message: "API keys are revokable credentials for the Twilio API."
           env:
           TWILIO_ACCOUNT_SID: ACc994e316f9eede3c165df8929de50d47
